@@ -15,7 +15,7 @@ The author is: 1262917464.
 
 	run `windres -o start_NoReg_C.rc UAC.o` in msys2.
 	
-	`It is not required, but if skip this step the program will not have an icon and will not run as administrator.`
+> It is not required, but if skip this step the program will not have an icon and will not run as administrator.	
 	
 2. Build start.exe
 

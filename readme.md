@@ -7,11 +7,11 @@ The author is: 1262917464.
 
 - Windows;
 - msys2;
-- UPX; (It is not required, just for compressing the program.)
+- UPX; (Optional, just for compressing the program.)
 
 #### Start Build
 
-1. Build .rc
+1. Build .rc to .o (Optional)
 
 	run `windres -o start_NoReg_C.rc UAC.o` in msys2.
 	

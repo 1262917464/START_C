@@ -13,7 +13,7 @@ The author is: 1262917464.
 
 1. Build .rc to .o (Optional)
 
-	run `windres -o start_NoReg_C.rc UAC.o` in msys2.
+	run `windres -i start_NoReg_C.rc -o UAC.o` in msys2.
 	
 > It is not required, but if skip this step the program will not have an icon and will not run as administrator.	
 	
